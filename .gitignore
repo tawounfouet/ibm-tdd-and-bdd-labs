@@ -4,4 +4,7 @@ guide-tdd-bdd.md
 
 # ignore all __pycache__ directories
 __pycache__/
+
+# ignore all .pyc files
+*.pyc
 ```
