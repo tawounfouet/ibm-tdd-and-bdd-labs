@@ -1,4 +1,4 @@
-# TDD / BDD Practice Code
+# Test & Behavior Driven Development - 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
@@ -26,8 +26,6 @@ This repository contains the practice code for the labs in **IBM Introduction to
 - [Lab 13: Variable substitution](labs/13_variable_substitution)
 
 ## Prerequisites
-
-All of these can be installed manually by clicking on the links above or you can use a package manager like **Homebrew** on Mac of **Chocolatey** on Windows.
 
 - [Python 3.9](https://www.python.org/downloads/)
 
